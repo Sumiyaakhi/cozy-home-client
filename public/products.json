@@ -1,0 +1,89 @@
+
+  [
+    {
+      "title": "Soft Floral Bed Cover",
+      "image": "https://static-01.daraz.com.bd/p/c9728339af6df7644be14ce949c490ea.png_400x400q75.jpg_.webp",
+      "details": "Soft and elegant floral pattern, perfect for a cozy bedroom.",
+      "price": 49.99,
+      "variations": 
+        {
+          "color1": "Blue",
+          "color2": "Red",
+          "size1": "King",
+          "size2": "Queen"
+         
+        }
+      
+    },
+    {
+      "title": "Striped Cotton Bedspread",
+      "image": "https://static-01.daraz.com.bd/p/1b8ba4499aa406c79632218121b61d6e.jpg_400x400q75.jpg_.webp",
+      "details": "Classic striped design in soothing gray tones, perfect for a comfortable sleep.",
+      "price": 59.99,
+      "variations": 
+        {
+          "color1": "Blue",
+          "color2": "Red",
+          "size1": "King",
+          "size2": "Queen"
+         
+        }
+    },
+    {
+      "title": "Vintage Patchwork Quilt",
+      "image": "https://static-01.daraz.com.bd/p/75bd1572f6416063c5f4b35da9aa8348.jpg_400x400q75.jpg_.webp",
+      "details": "Charming multicolor patchwork design, perfect for a vintage-inspired bedroom.",
+      "price": 79.99,
+      "variations": 
+        {
+          "color1": "Blue",
+          "color2": "Red",
+          "size1": "King",
+          "size2": "Queen"
+         
+        }
+    },
+    {
+      "title": "Luxurious Silk Comforter",
+      "image": "https://static-01.daraz.com.bd/p/81e3a42e5494a0c7f0c6878f8b4691a8.jpg_400x400q75.jpg_.webp",
+      "details": "Opulent gold silk comforter for a luxurious and comfortable sleep.",
+      "price": 129.99,
+      "variations": 
+        {
+          "color1": "Blue",
+          "color2": "Red",
+          "size1": "King",
+          "size2": "Queen"
+         
+        }
+    },
+    {
+      "title": "Modern Geometric Duvet",
+      "image": "https://static-01.daraz.com.bd/p/f3ab0eb844908043b9d77d878e5a4744.jpg_400x400q75.jpg_.webp",
+      "details": "Sleek black and white geometric duvet design for a stylish bedroom.",
+      "price": 89.99,
+      "variations": 
+      {
+        "color1": "Blue",
+        "color2": "Red",
+        "size1": "King",
+        "size2": "Queen"
+       
+      }
+    },
+    {
+      "title": "Knitted Chunky Blanket",
+      "image": "https://static-01.daraz.com.bd/p/8271c993a5825ee09f18040506956450.jpg_400x400q75.jpg_.webp",
+      "details": "Warm and cozy knitted chunky blanket in a soothing beige color.",
+      "price": 69.99,
+      "variations": 
+        {
+          "color1": "Blue",
+          "color2": "Red",
+          "size1": "King",
+          "size2": "Queen"
+         
+        }
+    }
+  ]
+  
